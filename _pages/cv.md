@@ -16,7 +16,7 @@ redirect_from:
   
 ## Academic Service
 ### Technical Program Committee Member of Conferences
-* 2026 IEEE International Conference on Web Services (ICWS)
+* 2026 IEEE International Conference on Web Services
 
 ### Reviewer for Journals and Conferences
-* 2026 Chinese Conference on Business Process Management (CBPM)
+* 2026 Chinese Conference on Business Process Management
